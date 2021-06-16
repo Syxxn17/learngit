@@ -1,5 +1,5 @@
 print("hello, world!")
-exit = 1
+exit = 2
 """
 This is comment.Yu Siyuan.
 """
